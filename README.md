@@ -19,3 +19,14 @@ A **computer** is an *electronic device* that accepts raw data as input, process
 * Central Processing Unit (CPU)
 * Memory & Storage (RAM, SSD)
 * Output Devices (Monitor, Printer)
+
+## Types of Computers
+
+Computers are categorized by their size, processing capability, and purpose:
+
+| Category | Description | Primary Usage |
+| :--- | :--- | :--- |
+| **Supercomputer** | High-performance systems | Scientific simulations, weather forecasting |
+| **Mainframe** | Large-scale bulk data processing | Banking, census data |
+| **Minicomputer** | Mid-range multi-user systems | Industrial process control |
+| **Microcomputer** | Personal computing systems | Desktop, laptop, daily use |
